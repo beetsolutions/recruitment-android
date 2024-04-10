@@ -8,7 +8,7 @@ Create a simple application displaying the list of available Carbon certificates
 ##### Features
 ###### "Certificates" view - the list of available Carbon certificates 
 - A simple list showing the ID and Owner of each certificate
-- Clicking the items opens up the Detail view
+- Items can be favorited 
 
 ###### "Detail" view - detail view for a single certificate
 - Shows all available data for a given certificate
