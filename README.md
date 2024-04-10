@@ -8,7 +8,9 @@ Create a simple application displaying the list of available Carbon certificates
 ##### Features
 ###### "Certificates" view - the list of available Carbon certificates 
 - A simple list showing the ID and Owner of each certificate
-- Items can be favorited 
+- Items can be favorited
+
+  ![alt text]([https://github.com/fieldmargin-recruitment/recruitment-android/blob/main/screenshot_example.png] "Example")
 
 ###### "Detail" view - detail view for a single certificate
 - Shows all available data for a given certificate
