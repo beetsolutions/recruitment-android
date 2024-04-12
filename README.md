@@ -9,6 +9,7 @@ Create a simple application displaying the list of available Carbon certificates
 ###### "Certificates" view - the list of available Carbon certificates 
 - A simple list showing the ID and Owner of each certificate
 - Items can be favorited
+- A 'loading' state
 
 ![Example](./screenshot_example.png)
 
