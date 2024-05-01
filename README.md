@@ -15,9 +15,9 @@ Create a simple application displaying the list of available Carbon certificates
 
 ##### Technical information
 For fetching the certificates use our endpoint:
-`https://demo.api.agreena.com/api/public/carbon_registry/v1/certificates?includeMeta=true&page=1&limit=10`
+`https://api-dev-v2.fieldmargin.com/tech-test/certificates?limit=5&page=1`
 
-(`API-ACCESS-TOKEN` header with value `Commoditrader-React-FE-Farmer` is needed to authenticate the endpoint)
+(`API-KEY` header with value `FIELDMARGIN-TECH-TEST` is needed to authenticate the endpoint)
 
 Keep in mind that there could be more than 10 certificates.
 
